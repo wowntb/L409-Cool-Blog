@@ -1,0 +1,31 @@
+body {
+    background-color: #ffb703;
+}
+
+h1 {
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+        "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    color: #023047;
+    text-decoration: underline;
+}
+
+h2,
+h3,
+label {
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    color: rgb(71, 71, 71);
+}
+
+table,
+td {
+    border: 1px solid;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+div {
+    padding: 20px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: -5px 5px 2px lightblue;
+}
